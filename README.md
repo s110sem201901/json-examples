@@ -6,7 +6,7 @@ List of json examples
 Clone the project, install dependencies and create an .env file
 
 ```
-git@github.com:brandiqa/json-examples.git
+git@github.com:sitepoint-editors/json-examples.git
 cd json-examples
 npm install
 touch .env
