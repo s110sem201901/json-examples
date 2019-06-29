@@ -6,7 +6,7 @@ List of json examples
 Clone the project, install dependencies and create an .env file
 
 ```
-git@github.com:sitepoint-editors/json-examples.git
+https://github.com/s110sem201901/json-examples.git
 cd json-examples
 npm install
 touch .env
